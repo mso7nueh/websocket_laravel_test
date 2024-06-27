@@ -139,6 +139,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.0"
+  pusher_client:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: fad6bdd639a5366c4b4a3b16484d09a16d045ad9
+      url: "https://github.com/bihim/pusher_client"
+    source: git
+    version: "2.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
